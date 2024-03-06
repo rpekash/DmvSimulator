@@ -18,7 +18,7 @@ public class DmvSimulator {
                 break;
             }
         }
-        System.out.println("It's now your turn! Unfortunately, you do not have the required paperwork.");
+        System.out.println("Get outta here! You don't have the required papers");
     }
 }
 
