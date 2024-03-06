@@ -19,10 +19,11 @@ public class DmvSimulator {
             }
         }
         if(random.nextInt(100) < 99) { 
-            System.out.println("Get outta here! You don't have the required papers");
+            System.out.println("Get outta here! You don't have the required papers HAHAHDUHAUDHAUHDAUHUAHUHAHU!!!!!");
         } else { 
             System.out.println("Congratulations! You have all of the required paperwork and you are all set.");
         }
+
     }
 }
 
